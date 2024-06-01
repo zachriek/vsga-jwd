@@ -1,0 +1,16 @@
+[
+    {
+        "nim": "1",
+        "alamat": "Gg. Bumi Teliyu",
+        "nama": "A",
+        "no_telepon": "0011223344556677",
+        "jenis_kelamin": "Perempuan",
+        "email": "1@gmail.com",
+        "tempat_lahir": "Bandar Lampung",
+        "jurusan": "Teknik Informatika",
+        "tanggal_lahir": "2024-06-01",
+        "mata_kuliah": "Pemrograman Dasar",
+        "agama": "Islam",
+        "nilai": "80"
+    }
+]
